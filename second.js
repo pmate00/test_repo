@@ -1,4 +1,6 @@
 const x = 1;
 
-let a = b;
-let c = d;
+let nagymama;
+if (havekuki(nagymama)) {
+    console.log("ő lett a nagypapa")
+}
